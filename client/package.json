@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "dotenv": "^6.2.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-map-gl": "^4.0.13",
@@ -23,5 +22,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "engines": {
+    "node": "8.11.3"
+  },
+  "author": "Robert Tran",
+  "license": "MIT"
 }
