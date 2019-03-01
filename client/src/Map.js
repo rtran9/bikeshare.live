@@ -17,7 +17,7 @@ export class Map extends Component {
 
   render() {
     const { viewport } = this.state
-    console.log(process.env)
+
     return (
       <ReactMapGL
         width={'100%'}
